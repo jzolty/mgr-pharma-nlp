@@ -10,3 +10,4 @@ models/
 *.pt
 .env
 .continue/
+models/herbert-ner/
